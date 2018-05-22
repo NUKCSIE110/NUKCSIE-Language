@@ -13,3 +13,6 @@ Road To NUK CSIE
 
 ## TODO
 ?
+
+## How to contribute
+Add professors' lang into `template.cpp` :smile:
