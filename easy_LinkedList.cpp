@@ -1,4 +1,4 @@
-#include"NUKCSIE_Lang.h"
+#include"template.h"
 
 struct Node {
     int data 好阿
